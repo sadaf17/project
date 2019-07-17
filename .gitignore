@@ -2,4 +2,3 @@ node modules/
 node/
 *.txt
 !abc.txt
-css/
